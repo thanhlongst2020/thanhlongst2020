@@ -20,7 +20,10 @@
 <a href="https://twitter.com/thanhlongvo10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="thanhlongvo10" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/17276624" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="17276624" height="30" width="40" /></a>
 <a href="https://fb.com/x.thanhlong" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="x.thanhlong" height="30" width="40" /></a>
+ <a href = "https://zalo.me/0386892919"><img style="width:24px;padding-right:8px" src="https://img.icons8.com/color/48/000000/zalo.png"/></a>
+<a href = "mailto:thanhlongst2013@gmail.com"><img style="width:24px;padding-right:8px" src="https://img.icons8.com/color/48/000000/gmail-new.png"/></a>
 </p>
+
 
 <p><img align="left" width="41%" src="https://github-readme-stats.vercel.app/api/top-langs?username=thanhlongst2020&show_icons=true&locale=en&layout=compact&bg_color=-45,25132E,DC0D4A,61A9A6,C5D6B5,98BE85&title_color=C197D2&text_color=ffffff&hide_border=true&hide=css,php" alt="thanhlongst2020" /></p>
 
