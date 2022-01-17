@@ -17,11 +17,22 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/thanhlongvo10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="thanhlongvo10" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/17276624" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="17276624" height="30" width="40" /></a>
+
+<!-- <a href="https://stackoverflow.com/users/17276624" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="17276624" height="30" width="40" /></a>
 <a href="https://fb.com/x.thanhlong" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="x.thanhlong" height="30" width="40" /></a>
 <a href = "https://zalo.me/0386892919" target="blank"><img  src="https://img.icons8.com/color/48/000000/zalo.png" alt="x.thanhlong" height="30" width="40"  /></a>
 <a href = "mailto:thanhlongst2013@gmail.com" target="blank"><img  src="https://img.icons8.com/color/48/000000/gmail-new.png" alt="x.thanhlong" height="30" width="40"/></a>
+   -->
+<!--   Twitter -->
+ <a href = "https://twitter.com/thanhlongvo10"><img style="width:24px;padding-right:8px" src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
+<!-- Zalo -->
+ <a href = "https://zalo.me/0386892919"><img style="width:24px;padding-right:8px" src="https://img.icons8.com/color/48/000000/zalo.png"/></a>
+<!-- Gmail -->
+ <a href = "mailto:thanhlongst2013@gmail.com"><img style="width:24px;padding-right:8px" src="https://img.icons8.com/color/48/000000/gmail-new.png"/></a>
+<!--   Stackoverflow -->
+ <a href="https://stackoverflow.com/users/17276624" ><img style="width:24px;padding-right:8px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="17276624" /></a>
+<!-- Facebook -->
+  <a href="https://fb.com/x.thanhlong" ><img style="width:24px;padding-right:8px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="x.thanhlong" /></a>
 </p>
 
 
